@@ -18,6 +18,3 @@ Please refer to this to check the abbreviations.
 Anyone can edit this README.md file until the end of the final project.
 
 Thank you!
-
-Best wishes,
-Heansuh Lee
