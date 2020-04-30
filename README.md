@@ -13,7 +13,7 @@ Please refer to this to check the abbreviations.
 - ibd: internal block diagram
 - 3dd: 3d design
 
-3) All related files are added to GitHub. Project schedulings are all discussed in Trello. Please reach out to heansuh@gmail.com or WhatsApp for share link.
+3) All related files are added to GitHub. Project schedulings are all discussed in Trello. Please reach out to Heansuh Lee via email: heansuh@gmail.com, or WhatsApp. He will provide Trello share link.
 
 Anyone can edit this README.md file until the end of the final project.
 
