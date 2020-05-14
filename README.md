@@ -20,3 +20,5 @@ Please refer to this to check the abbreviations.
 Anyone can edit this README.md file until the end of the final project.
 
 Thank you!
+
+Weekly protocol: https://docs.google.com/spreadsheets/d/1YlPrPus6w717LcIC63ZV7yXidqFOzoI-X1ckHb5NPa8/edit#gid=0
