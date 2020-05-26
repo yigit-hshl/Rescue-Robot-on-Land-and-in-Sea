@@ -6,9 +6,9 @@ For this project,
 
 1) For filename, the prefix goes as WF_Prototyping_, where WF stands for Wakanda Foreva.
 
-The content goes with the project-related terms.
+The contents of this Git goes with the project-related terms.
 
-Please refer to this to check the abbreviations.
+Please refer below for the following abbreviations:
 - bdd: block definition diagram
 - ibd: internal block diagram
 - 3dd: 3d design (Yigitcan Aydin - design)
