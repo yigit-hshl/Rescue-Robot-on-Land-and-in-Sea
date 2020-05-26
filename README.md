@@ -15,6 +15,7 @@ Please refer to this to check the abbreviations.
 - ad: activity diagram (Heansuh Lee - active structure)
 - sd: sequence diagram (Heansuh Lee - behavioural diagram)
 - d_: draft _ (_ is a number, always starting from 1)
+- rd: requirement diagram (Alao Olaniyi - requirements)
 
 2) All related files are added to GitHub. Project schedulings are all discussed in Trello. Please reach out to Heansuh Lee via email: heansuh@gmail.com, or WhatsApp. He will provide Trello share link.
 
