@@ -11,7 +11,7 @@ The content goes with the project-related terms.
 Please refer to this to check the abbreviations.
 - bdd: block definition diagram
 - ibd: internal block diagram
-- 3dd: 3d design
+- 3dd: 3d design (Yigitcan Aydin - design)
 - ad: activity diagram (Heansuh Lee - active structure)
 - sd: sequence diagram (Heansuh Lee - behavioural diagram)
 - d_: draft _ (_ is a number, always starting from 1)
