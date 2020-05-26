@@ -12,7 +12,7 @@ Please refer to these following abbreviations:
 - bdd: block definition diagram
 - ibd: internal block diagram
 - 3dd: 3d design (Yigitcan Aydin - design)
-- ad: activity diagram (Heansuh Lee - active structure)
+- ad: activity diagram (Heansuh Lee - behavioural diagram)
 - sd: sequence diagram (Heansuh Lee - behavioural diagram)
 - d_: draft _ (_ is a number, always starting from 1)
 - rd: requirement diagram (Alao Olaniyi - requirements)
