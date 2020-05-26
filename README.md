@@ -8,7 +8,7 @@ For this project,
 
 The contents of this Git goes with the project-related terms.
 
-Please refer below for the following abbreviations:
+Please refer to these following abbreviations:
 - bdd: block definition diagram
 - ibd: internal block diagram
 - 3dd: 3d design (Yigitcan Aydin - design)
