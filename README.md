@@ -16,6 +16,7 @@ Please refer to these following abbreviations:
 - sd: sequence diagram (Heansuh Lee - behavioural diagram)
 - d_: draft _ (_ is a number, always starting from 1)
 - rd: requirement diagram (Alao Olaniyi - requirements)
+- cd: class diagram (Heansuh Lee - active structure)
 
 2) All related files are added to GitHub. Project schedulings are all discussed in Trello. Please reach out to Heansuh Lee via email: heansuh@gmail.com, or WhatsApp. He will provide the Trello share link.
 
