@@ -17,7 +17,7 @@ Please refer to this to check the abbreviations.
 - d_: draft _ (_ is a number, always starting from 1)
 - rd: requirement diagram (Alao Olaniyi - requirements)
 
-2) All related files are added to GitHub. Project schedulings are all discussed in Trello. Please reach out to Heansuh Lee via email: heansuh@gmail.com, or WhatsApp. He will provide Trello share link.
+2) All related files are added to GitHub. Project schedulings are all discussed in Trello. Please reach out to Heansuh Lee via email: heansuh@gmail.com, or WhatsApp. He will provide the Trello share link.
 
 Anyone can edit this README.md file until the end of the final project.
 
