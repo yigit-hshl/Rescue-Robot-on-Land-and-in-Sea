@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>3</zoom_level>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>531</x>
+      <y>453</y>
+      <w>9</w>
+      <h>39</h>
+    </coordinates>
+    <panel_attributes>lt=(+)-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;110.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>591</x>
+      <y>636</y>
+      <w>63</w>
+      <h>12</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;DerivedRqt&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;20.0;190.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>492</x>
+      <y>429</y>
+      <w>84</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Requirement&gt;&gt;
+Amphibious Vehicle Specification</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>447</x>
+      <y>513</y>
+      <w>75</w>
+      <h>18</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Requirement&gt;&gt;
+Detect Audio and Light Signal</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>399</x>
+      <y>480</y>
+      <w>690</w>
+      <h>15</h>
+    </coordinates>
+    <panel_attributes>
+</panel_attributes>
+    <additional_attributes>2280.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>351</x>
+      <y>513</y>
+      <w>87</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Requirement&gt;&gt;
+Emissions
+--
+															&lt;&lt;Requirements&gt;&gt;
+id = "AVS 2.2"
+text = " The Amphibious vehicle shall 
+meet the standard emission requirement 
+for vehicles "</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>399</x>
+      <y>483</y>
+      <w>9</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>
+</panel_attributes>
+    <additional_attributes>10.0;100.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>471</x>
+      <y>483</y>
+      <w>9</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>
+</panel_attributes>
+    <additional_attributes>10.0;100.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>543</x>
+      <y>483</y>
+      <w>9</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>
+</panel_attributes>
+    <additional_attributes>10.0;100.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>528</x>
+      <y>513</y>
+      <w>90</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Requirement&gt;&gt;
+Drive Autonomously
+--
+															&lt;&lt;Requirements&gt;&gt;
+id = "AVS 1.1"
+text = " The  vehicle shall be able to drive
+on its own without human input "</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>663</x>
+      <y>483</y>
+      <w>9</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>
+</panel_attributes>
+    <additional_attributes>10.0;100.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>636</x>
+      <y>513</y>
+      <w>87</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Requirement&gt;&gt;
+Rescue Operation
+--
+															&lt;&lt;Requirements&gt;&gt;
+id = "AVS 1.2"
+text = " The  vehicle shall be able to 
+perform rescue operations "</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>762</x>
+      <y>483</y>
+      <w>9</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>
+</panel_attributes>
+    <additional_attributes>10.0;100.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>738</x>
+      <y>513</y>
+      <w>87</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Requirement&gt;&gt;
+Field of Use
+--
+															&lt;&lt;Requirements&gt;&gt;
+id = "AVS 1.3"
+text = " The  vehicle shall be able to 
+drive on land and in water "</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>696</x>
+      <y>591</y>
+      <w>9</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>
+</panel_attributes>
+    <additional_attributes>10.0;100.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>771</x>
+      <y>561</y>
+      <w>9</w>
+      <h>39</h>
+    </coordinates>
+    <panel_attributes>lt=(+)-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;110.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>696</x>
+      <y>588</y>
+      <w>144</w>
+      <h>15</h>
+    </coordinates>
+    <panel_attributes>
+</panel_attributes>
+    <additional_attributes>460.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>648</x>
+      <y>621</y>
+      <w>90</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Requirement&gt;&gt;
+Field of Use
+--
+															&lt;&lt;Requirements&gt;&gt;
+id = "AVS 1.4"
+text = " The  vehicle shall be able to 
+drive on smooth, rough and hilly terrains "</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>486</x>
+      <y>624</y>
+      <w>108</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Requirement&gt;&gt;
+Field of Use
+--
+															&lt;&lt;Requirements&gt;&gt;
+id = "AVS 1.5"
+text = " The  vehicle shall be able to 
+accelerate from 0 - 100 mph in under 10 seconds "</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>798</x>
+      <y>621</y>
+      <w>90</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Requirement&gt;&gt;
+Water Environment
+--
+															&lt;&lt;Requirements&gt;&gt;
+id = "AVS 1.6"
+text = " The  vehicle shall be able to 
+drive in water "</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>831</x>
+      <y>591</y>
+      <w>9</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>
+</panel_attributes>
+    <additional_attributes>10.0;100.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>789</x>
+      <y>705</y>
+      <w>90</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Requirement&gt;&gt;
+Depth of Water
+--
+															&lt;&lt;Requirements&gt;&gt;
+id = "AVS 1.7"
+text = " The  depth of water it shall be 
+driven  shall be &lt;= the size of a river "</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>837</x>
+      <y>666</y>
+      <w>36</w>
+      <h>45</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;DerivedRqt&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;130.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>849</x>
+      <y>513</y>
+      <w>87</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Requirement&gt;&gt;
+Manual Override
+--
+															&lt;&lt;Requirements&gt;&gt;
+id = "AVS 2.0"
+text = " The  vehicle shall have a  
+manual override option "</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>891</x>
+      <y>483</y>
+      <w>9</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>
+</panel_attributes>
+    <additional_attributes>10.0;100.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>915</x>
+      <y>594</y>
+      <w>75</w>
+      <h>18</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Requirement&gt;&gt;
+Detect Audio and Light Signal</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>900</x>
+      <y>558</y>
+      <w>42</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;Satisfy&gt;&gt;</panel_attributes>
+    <additional_attributes>120.0;120.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>315</x>
+      <y>606</y>
+      <w>75</w>
+      <h>18</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Requirement&gt;&gt;
+Low Carbon Emission</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>348</x>
+      <y>558</y>
+      <w>42</w>
+      <h>54</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;Satisfy&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;160.0;120.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1044</x>
+      <y>513</y>
+      <w>87</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Requirement&gt;&gt;
+Lights
+--
+															&lt;&lt;Requirements&gt;&gt;
+id = "AVS 2.0"
+text = " The  vehicle shall have two  
+front and tail lights "</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1080</x>
+      <y>483</y>
+      <w>9</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>
+</panel_attributes>
+    <additional_attributes>10.0;100.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>282</x>
+      <y>369</y>
+      <w>879</w>
+      <h>471</h>
+    </coordinates>
+    <panel_attributes>req [package] Functional requirements [Overall Structure of requirements]</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

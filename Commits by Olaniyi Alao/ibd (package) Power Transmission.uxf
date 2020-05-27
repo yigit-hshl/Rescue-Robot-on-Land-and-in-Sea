@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>5</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>540</x>
+      <y>60</y>
+      <w>475</w>
+      <h>300</h>
+    </coordinates>
+    <panel_attributes>
+Power Transmission
+
+--
+	
+																																																																																																			Structure
+
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>555</x>
+      <y>175</y>
+      <w>55</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>
+
+
+Motor Grid</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>440</x>
+      <y>200</y>
+      <w>55</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>
+Arduino</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>460</x>
+      <y>255</y>
+      <w>95</w>
+      <h>240</h>
+    </coordinates>
+    <panel_attributes>lt=[^]-[&lt;]
+&lt;&lt;value&gt;&gt;
+Electric Charge</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;460.0;170.0;460.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>490</x>
+      <y>215</y>
+      <w>75</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=[&gt;]-[&gt;]
+&lt;&lt;signal&gt;&gt;
+
+signal</panel_attributes>
+    <additional_attributes>10.0;20.0;130.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>545</x>
+      <y>435</y>
+      <w>150</w>
+      <h>170</h>
+    </coordinates>
+    <panel_attributes>
+Battery
+
+--
+																										structure</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>580</x>
+      <y>475</y>
+      <w>95</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>
+Lithium Cell
+--
+													Structure</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>600</x>
+      <y>505</y>
+      <w>55</w>
+      <h>45</h>
+    </coordinates>
+    <panel_attributes>
+
+Charge</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>575</x>
+      <y>240</y>
+      <w>65</w>
+      <h>205</h>
+    </coordinates>
+    <panel_attributes>lt=[^]-[^]
+&lt;&lt;value&gt;&gt;
+Electric Charge</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;390.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>670</x>
+      <y>175</y>
+      <w>75</w>
+      <h>105</h>
+    </coordinates>
+    <panel_attributes>
+
+Transmissioin</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>605</x>
+      <y>200</y>
+      <w>75</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=[&gt;]-[&gt;]
+&lt;&lt;value&gt;&gt;
+
+Power</panel_attributes>
+    <additional_attributes>10.0;20.0;130.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>795</x>
+      <y>180</y>
+      <w>70</w>
+      <h>45</h>
+    </coordinates>
+    <panel_attributes>
+
+Left rear 
+wheel</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>740</x>
+      <y>190</y>
+      <w>65</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=[&gt;]-[&gt;]
+&lt;&lt;Value&gt;&gt;
+
+Torque</panel_attributes>
+    <additional_attributes>10.0;20.0;110.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>740</x>
+      <y>120</y>
+      <w>70</w>
+      <h>45</h>
+    </coordinates>
+    <panel_attributes>
+
+Right rear 
+wheel</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>695</x>
+      <y>135</y>
+      <w>55</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>lt=[^]-[&gt;]
+&lt;&lt;Value&gt;&gt;
+
+Torque</panel_attributes>
+    <additional_attributes>10.0;80.0;10.0;10.0;90.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>740</x>
+      <y>250</y>
+      <w>85</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=[&gt;]-[&gt;]
+&lt;&lt;Value&gt;&gt;
+
+Torque</panel_attributes>
+    <additional_attributes>10.0;20.0;150.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>815</x>
+      <y>245</y>
+      <w>70</w>
+      <h>45</h>
+    </coordinates>
+    <panel_attributes>
+
+Right front 
+wheel</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>735</x>
+      <y>300</y>
+      <w>70</w>
+      <h>45</h>
+    </coordinates>
+    <panel_attributes>
+
+Right front 
+wheel</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>695</x>
+      <y>275</y>
+      <w>50</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>lt=[v]-[&gt;]
+&lt;&lt;Value&gt;&gt;
+
+Torque</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;80.0;80.0;80.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>410</x>
+      <y>10</y>
+      <w>730</w>
+      <h>740</h>
+    </coordinates>
+    <panel_attributes>ibd [package] Power Transmission [Overall Structure]</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
