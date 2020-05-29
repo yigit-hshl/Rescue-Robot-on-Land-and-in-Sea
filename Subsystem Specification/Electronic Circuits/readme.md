@@ -1,6 +1,6 @@
-In this part, we are looking at what sensors we are using.
+In this part, we will look at what sensors we are going to use for our rescue robot.
 
-The sensors we are going to use are:
+The sensors we are using are:
 
 1) Ultrasonic sensor (to locate object)
 2) Light sensor (to locate obstacles, to follow the signals given off)
