@@ -1,6 +1,6 @@
 # SysML Diagrams
 
-In this, we will be looking at different SysML diagrams for our rescue robot.
+In this, we will look at different SysML diagrams for our rescue robot.
 
 Here are some abbreviations to note:
 - bdd: block definition diagram
