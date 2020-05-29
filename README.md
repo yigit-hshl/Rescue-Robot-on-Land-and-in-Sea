@@ -4,21 +4,7 @@ Hello everyone :)
 
 For this project,
 
-1) For filename, the prefix goes as WF_Prototyping_, where WF stands for Wakanda Foreva.
-
-The contents of this Git goes with the project-related terms.
-
-Please refer to these following abbreviations:
-- bdd: block definition diagram
-- ibd: internal block diagram
-- 3dd: 3d design (Yigitcan Aydin - design)
-- ad: activity diagram (Heansuh Lee - behavioural diagram)
-- sd: sequence diagram (Heansuh Lee - behavioural diagram)
-- d_: draft _ (_ is a number, always starting from 1)
-- rd: requirement diagram (Alao Olaniyi - requirements)
-- cd: class diagram (Heansuh Lee - active structure)
-- ed: environment diagram (Eham Rafsan - environment diagram)
-- so: system of objectives (Eham Rafsan - system of Objectives)
+1) Please refer to specific repositories for your interest. Every repository has a readme.md to help you understand what it is for!
 
 2) All related files are added to GitHub. Project schedulings are all discussed in Trello. Please reach out to Heansuh Lee via email: heansuh@gmail.com, or WhatsApp. He will provide the Trello share link.
 
