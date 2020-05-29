@@ -29,5 +29,5 @@ We are using **Arduino UNO R3** for the circuit board.
 *Why Arduino?*
 It is easy and convenient to use - familiar from last semester's Microcontroller project.
 
-# Software used
+# Software(s) used
 For designing the circuit elements, we used Fritzing and Tinkercad (https://www.tinkercad.com/).
