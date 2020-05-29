@@ -15,6 +15,7 @@ Here are some abbreviations to note:
 
 **1) Activity diagram**
 - d1: done by Heansuh Lee
+
 Feedback: diagram errors; fork cannot exist
 - d2: done by Heansuh Lee
 
