@@ -27,6 +27,7 @@ The sensors we are using are:
 We are using **Arduino UNO R3** for the circuit board.
 
 *Why Arduino?*
+
 It is easy and convenient to use - familiar from last semester's Microcontroller project.
 
 # Software(s) used
