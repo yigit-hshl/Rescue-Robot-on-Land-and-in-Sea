@@ -5,14 +5,13 @@ In this, we will be looking at different SysML diagrams for our rescue robot.
 Here are some abbreviations to note:
 - bdd: block definition diagram
 - ibd: internal block diagram
-- 3dd: 3d design (Yigitcan Aydin - design)
-- ad: activity diagram (Heansuh Lee - behavioural diagram)
-- sd: sequence diagram (Heansuh Lee - behavioural diagram)
+- 3dd: 3d design
+- ad: activity diagram
+- sd: sequence diagram
 - d_: draft _ (_ is a number, always starting from 1)
-- rd: requirement diagram (Alao Olaniyi - requirements)
-- cd: class diagram (Heansuh Lee - active structure)
-- ed: environment diagram (Eham Rafsan - environment diagram)
-- so: system of objectives (Eham Rafsan - system of Objectives)
+- rd: requirement diagram
+- ed: environment diagram
+- so: system of objectives
 
 **1) Activity diagram**
 - d1: done by Heansuh Lee
