@@ -15,9 +15,13 @@ Here are some abbreviations to note:
 - so: system of objectives (Eham Rafsan - system of Objectives)
 
 **1) Activity diagram**
-- 
+- d1: done by Heansuh Lee
+Feedback: diagram errors; fork cannot exist
+- d2: done by Heansuh Lee
 
 **2) Block body diagram**
+- d1: done by Heansuh Lee
+Feedback: subsystem level, need to be simplified
 
 **Software(s) used**
 We used Visual Paradigm Community Edition (https://www.visual-paradigm.com/download/community.jsp), Visual Paradigm Online (https://online.visual-paradigm.com/), UMLet (https://www.umlet.com/) and Papyrus Eclipse (https://www.eclipse.org/papyrus/).
