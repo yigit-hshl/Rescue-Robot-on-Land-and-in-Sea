@@ -18,3 +18,6 @@ Here are some abbreviations to note:
 - 
 
 **2) Block body diagram**
+
+**Software(s) used**
+We used Visual Paradigm Community Edition (https://www.visual-paradigm.com/download/community.jsp), Visual Paradigm Online (https://online.visual-paradigm.com/), UMLet (https://www.umlet.com/) and Papyrus Eclipse (https://www.eclipse.org/papyrus/).
