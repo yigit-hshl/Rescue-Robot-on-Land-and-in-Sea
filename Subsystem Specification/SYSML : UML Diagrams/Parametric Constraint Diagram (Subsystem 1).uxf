@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>7</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>420</x>
+      <y>175</y>
+      <w>147</w>
+      <h>147</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Constraint&gt;&gt;
+
+Obstacle detection distance
+
+--
+														constraints
+														
+{rD &gt; O}
+--
+														Parameters
+														
+rD: robotDistance
+O: Obstacle</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>637</x>
+      <y>175</y>
+      <w>147</w>
+      <h>147</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Constraint&gt;&gt;
+
+Depth of Water
+
+--
+														constraints
+														
+{Volume &lt;= 65.8}						
+--
+														Parameters
+														
+volume : float</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>819</x>
+      <y>175</y>
+      <w>147</w>
+      <h>147</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Constraint&gt;&gt;
+
+Maximum weight of robot
+
+--
+														constraints
+														
+{m*g == floatableRange}
+--
+														Parameters
+														
+m: Mass
+g: gravitational acceleration
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>364</x>
+      <y>98</y>
+      <w>672</w>
+      <h>413</h>
+    </coordinates>
+    <panel_attributes>bbd [package] Constraint Library [Amphibious Robot]</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>413</x>
+      <y>343</y>
+      <w>147</w>
+      <h>147</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Constraint&gt;&gt;
+
+Ultrasonic detection range
+
+--
+														constraints
+														
+{d = 2 - 40}
+--
+														Parameters
+														
+d: distance</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
