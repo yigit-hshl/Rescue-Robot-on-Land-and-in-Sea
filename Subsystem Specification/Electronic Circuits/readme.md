@@ -24,7 +24,7 @@ The sensors we are using are:
 - for victim to interact with the rescue robot
 
 # Circuit Board
-We are using **Arduino UNO R3** for the circuit board.
+We are using **Arduino MEGA 2560 R3** for the circuit board.
 
 *Why Arduino?*
 
