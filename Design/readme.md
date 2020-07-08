@@ -12,11 +12,17 @@ management (Pahl/Beitz)
 - Define which requirements are fixed (must have), minimal (to
 have more or less) or desirable (nice to have).
 
-**2)** Conceptional model (according to Don Norman):
+**2) Conceptional model**
 
+The conceptual model is created based on Don Norman's theory.
 
+**3) Model ratio**
 
-**3)**
+The rescue robot's model ratio is based on 
+
+**4) 3D Parts**
+
+3D parts, including assembly file, are added with screenshots.
 
 # Softwares used
 
