@@ -1,5 +1,7 @@
 # Design
 
+Please refer to the folders for the final submission files!
+
 Here we will look at the design of our rescue robot.
 
 **1) Specification**
