@@ -1,0 +1,119 @@
+#define right_motor_1 6
+#define right_motor_2  5
+#define left_motor_1 9
+#define left_motor_2 10
+#define servo_pulse 7
+
+
+#include <Servo.h>
+
+const int trigPin = 8;
+const int echoPin = 4;
+
+long duration;
+int distance;
+double h;
+
+
+int  select, pos=0;
+
+Servo my_servo;
+
+void setup() {
+	Serial.begin(9600);
+  	pinMode(trigPin, OUTPUT); 
+	pinMode(echoPin, INPUT); 
+  	my_servo.attach(7);
+  	pinMode(right_motor_1, OUTPUT);
+  	pinMode(right_motor_2, OUTPUT);
+  	pinMode(left_motor_1, OUTPUT);
+  	pinMode(left_motor_2, OUTPUT);
+
+
+
+}
+double get_Distance()
+// returns distance from Ping))) sensor in cm
+{
+digitalWrite(trigPin, LOW);
+delayMicroseconds(2);
+
+digitalWrite(trigPin, HIGH);
+delayMicroseconds(10);
+digitalWrite(trigPin, LOW);
+  
+// Reads the echoPin, returns the sound wave travel time in microseconds
+duration = pulseIn(echoPin, HIGH);
+  
+// Calculating the distance
+distance= duration*0.034/2;
+  
+// Prints the distance on the Serial Monitor
+Serial.print("Distance in cm: ");
+Serial.println(distance);
+return distance;
+}
+
+
+  void drive_Forward(){
+
+  digitalWrite(right_motor_1, HIGH);
+  digitalWrite(right_motor_2, LOW);
+  digitalWrite(left_motor_1, HIGH);
+  digitalWrite(left_motor_2, LOW);
+  Serial.println("Driving forward");
+}
+  void drive_Back(){
+
+  digitalWrite(right_motor_1,LOW);
+  digitalWrite(right_motor_2, HIGH);
+  digitalWrite(left_motor_1, LOW);
+  digitalWrite(left_motor_2, HIGH);
+  Serial.println("Going back");
+}
+void drive_Left()
+{ 
+  digitalWrite(right_motor_1, HIGH);
+  digitalWrite(right_motor_2, LOW);
+  digitalWrite(left_motor_1, LOW);
+  digitalWrite(left_motor_2, HIGH);
+  Serial.println("Turning left");
+}
+void drive_Right()
+{
+  digitalWrite(right_motor_1,LOW);
+  digitalWrite(right_motor_2,HIGH);
+  digitalWrite(left_motor_1,HIGH);
+  digitalWrite(left_motor_2, LOW);
+  Serial.println("Turning right");
+
+  
+}
+void stopp()
+{
+
+  digitalWrite(right_motor_1,LOW);
+  digitalWrite(right_motor_2,LOW);
+  digitalWrite(left_motor_1, LOW);
+  digitalWrite(left_motor_2, LOW);
+  Serial.println("Stop Driving");
+
+}
+void loop() 
+{
+
+  //Serial.print(distance);
+  my_servo.write(90);
+  delay(15);
+  drive_Forward();
+  
+  h = get_Distance();
+  Serial.print("Distance in cm: ");
+	Serial.println(h);
+
+
+}
+
+
+
+
