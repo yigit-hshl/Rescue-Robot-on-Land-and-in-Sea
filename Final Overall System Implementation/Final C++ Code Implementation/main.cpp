@@ -124,10 +124,6 @@ void analyse_Obstacle(){
         obstacle_Type = "water";
         obstacle_Depth = 40.8;
 
-    }else
-    {
-        //obstacle_Type = "s";
-
     }
 
 
